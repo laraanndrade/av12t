@@ -1,8 +1,9 @@
-</head{
-    background-color: blueviolet;
-color: white;
+header{
+background-color: blue;
+color: aquamarine;
 }
 
-img{
-    
+.cabecalho-imagem{
+
+    width:20%;
 }
